@@ -1,11 +1,12 @@
-### DATA DICTIONARY - Samsung data
-#### This codebook describes 68 columns of data
+#### DATA DICTIONARY - Samsung data
 
-subject_id	1 or 2 digit number
-	Identifier for subjects included in the samsung data collection experiment
-		1 .Subject 1
-		2 .Subject 2
-		3 .Subject 3
+** This codebook describes 68 columns of data **
+
+subject_id    1 or 2 digit number  
+    Identifier for subjects included in the samsung data collection experiment  
+        1 .Subject 1  
+        2 .Subject 2  
+        3 .Subject 3
 		4 .Subject 4
 		5 .Subject 5
 		6 .Subject 6
